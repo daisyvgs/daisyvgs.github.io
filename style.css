@@ -16,8 +16,8 @@ header {
 }
 
 img {
-    width: 135px;
-    height: 135px;
+    /* width: 135px; */
+    /* height: 135px; */
     border: solid 5px #E91E63;
     border-radius: 50%;
 }
@@ -38,7 +38,7 @@ section {
 }
 
 main {
-    width: 35%;
+    width: 70%;
     height: auto;
     border-radius: 10px;
     padding: 10px;
@@ -47,7 +47,7 @@ main {
 }
 
 div {
-    width: 25%;
+    width: 50%;
     height: auto;
     display: flex;
     flex-direction: row;
